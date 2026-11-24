@@ -1,0 +1,5 @@
+homepage: "https://converly.io"
+documentation: "https://converly.io/gtm-templates/hubspot-forms"
+versions:
+  - sha: f759bcabebd618eee5b2cec8836fdeaf0fb5464a
+    changeNotes: First release.
